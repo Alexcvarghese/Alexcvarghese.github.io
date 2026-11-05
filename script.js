@@ -289,11 +289,11 @@ function initConsole() {
 `,
     projects: `
 <div class="text-zinc-300 space-y-1.5">
-  <div>1. <strong class="text-white">Alexa Player</strong>: Audio MIR & 3D Virtual Piano Guide (<a href="https://github.com/ALEX2k5-777/alexa-player" target="_blank" class="text-blue-400 underline">github</a>)</div>
-  <div>2. <strong class="text-white">VibePlayer</strong>: Audio player with real-time visualizers (<a href="https://github.com/ALEX2k5-777/vibeplayer" target="_blank" class="text-blue-400 underline">github</a>)</div>
-  <div>3. <strong class="text-white">AQI Predictor</strong>: ML Web App built at Akira Software Solutions (<a href="https://github.com/ALEX2k5-777/Air-Quality-Model-" target="_blank" class="text-blue-400 underline">github</a>)</div>
+  <div>1. <strong class="text-white">Alexa Player</strong>: Audio MIR & 3D Virtual Piano Guide (<a href="https://github.com/alexcvarghese/alexa-player" target="_blank" class="text-blue-400 underline">github</a>)</div>
+  <div>2. <strong class="text-white">VibePlayer</strong>: Audio player with real-time visualizers (<a href="https://github.com/alexcvarghese/vibeplayer" target="_blank" class="text-blue-400 underline">github</a>)</div>
+  <div>3. <strong class="text-white">AQI Predictor</strong>: ML Web App built at Akira Software Solutions (<a href="https://github.com/alexcvarghese/Air-Quality-Model-" target="_blank" class="text-blue-400 underline">github</a>)</div>
   <div>4. <strong class="text-white">AGRIGO</strong>: Agricultural management web platform with weather APIs</div>
-  <div>5. <strong class="text-white">Fly-Vezhambal</strong>: Android 2D arcade mobile game (<a href="https://github.com/ALEX2k5-777/fly-vezhambal" target="_blank" class="text-blue-400 underline">github</a>)</div>
+  <div>5. <strong class="text-white">Fly-Vezhambal</strong>: Android 2D arcade mobile game (<a href="https://github.com/alexcvarghese/fly-vezhambal" target="_blank" class="text-blue-400 underline">github</a>)</div>
 </div>
 `,
     contact: `
@@ -301,7 +301,7 @@ function initConsole() {
   <div>• Email: <a href="mailto:alexcvarghese777@gmail.com" class="text-blue-400">alexcvarghese777@gmail.com</a></div>
   <div>• Phone: +91 9747315186</div>
   <div>• LinkedIn: <a href="https://www.linkedin.com/in/alex-c-varghese-038581358/" target="_blank" class="text-blue-400">alex-c-varghese</a></div>
-  <div>• GitHub: <a href="https://github.com/ALEX2k5-777" target="_blank" class="text-blue-400">ALEX2k5-777</a></div>
+  <div>• GitHub: <a href="https://github.com/alexcvarghese" target="_blank" class="text-blue-400">ALEX2k5-777</a></div>
 </div>
 `,
     hire: `
